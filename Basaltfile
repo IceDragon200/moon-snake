@@ -1,0 +1,3 @@
+set pkgdir: 'packages'
+
+pkg 'std'
